@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+geopandas
+folium
+sqlalchemy
+plotly
+prophet
+keras
+tensorflow
+pytorch
